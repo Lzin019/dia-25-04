@@ -1,4 +1,4 @@
-let comidas = ['Banana', 'Pastel', 'Pizza'];
-comidas.push('Abacaxi');
+let comidas = ['Banana🍌', 'Pastel🥟', 'Pizza🍕'];
+comidas.push('Abacaxi🍍');
 
 console.log(comidas)
