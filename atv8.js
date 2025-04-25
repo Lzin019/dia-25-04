@@ -6,4 +6,4 @@ for (let i = 0; i < idades.length; i++) {
         MaisDe18.push(idades[i]);
     }
 }
-console.log("As idades que são maiores ou iguais a 18:", MaisDe18); 
+console.log("As idades que são maiores ou iguais a 18🔞:", MaisDe18); 
