@@ -1,7 +1,9 @@
-let idades = [8, 7, 10, 19, 22, 30];
-let idade = 0;
-if (idades <= 18) {
-    console.log("Essa idade é menor que 18") }
-        else {
-    console.log("Essa idade  é maior ou igual de 18")
+let idades = [16, 21, 18, 14, 19, 23, 17];
+let MaisDe18 = [];
+
+for (let i = 0; i < idades.length; i++) {
+    if (idades[i] >= 18) {
+        MaisDe18.push(idades[i]);
+    }
 }
+console.log("As idades que são maiores ou iguais a 18:", MaisDe18); 
