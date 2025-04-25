@@ -1,4 +1,4 @@
-let rankingDeJogos = ["Roblox⭕", "Minecraft🌎", "Free Fire🔥"];
+let rankingDeJogos = ["Roblox🛐", "Minecraft🌎", "Free Fire🔥"];
 let jogoFavorito = "Minecraft🌎";
 
 let posicao = -1;
